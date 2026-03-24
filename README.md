@@ -34,9 +34,9 @@
 ### 🧠 IRUBAD — Insider Risk & User Behaviour Analytics Dashboard
 
 ```diff
-+ AI-driven anomaly detection
-+ Real-time monitoring system
-+ Insider threat intelligence
+AI-driven anomaly detection
+Real-time monitoring system
+Insider threat intelligence
 ```
 
 ---
@@ -57,22 +57,6 @@
 
 <p align="center">
   <img src="https://github.com/KruthikReddy88/KruthikReddy88/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KruthikReddy88&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 👁 PROFILE VIEWS
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KruthikReddy88&color=ff0000&style=for-the-badge" />
 </p>
 
 ---
