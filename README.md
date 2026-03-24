@@ -1,86 +1,101 @@
-<h1 align="center">Hi 👋, I'm Kruthik Reddy</h1>
-<h3 align="center">Aspiring Cybersecurity Engineer | Web Developer | ML Enthusiast</h3>
-
----
-
-## 🚀 About Me
-- 🎓 B.Tech CSE @ Alliance University (CGPA: 8.0)
-- 🔐 Passionate about Cybersecurity & Ethical Hacking
-- 🧠 Building AI-powered security systems
-- ⚡ Currently working on **IRUBAD (Insider Risk & User Behaviour Analytics Dashboard)**
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-4B0082?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-## 🧠 Projects
-
-### 🔥 IRUBAD (Insider Risk & User Behaviour Analytics Dashboard)
-- Detect insider threats using behavioral analytics
-- Real-time monitoring dashboard
-- AI-based anomaly detection
-
-### 🚁 Drone RF Signal Interception
-- Capturing RF signals using SDR
-- Analyzing drone communication protocols
-
-### 🛡️ Malicious URL Detection
-- 96.6% accuracy using LightGBM
-- 651K+ dataset
-
-### 🧬 AI Malware Detection
-- Deep learning-based threat detection
-- Integrated with IDS
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KruthikReddy88&show_icons=true&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=250&section=header&text=Kruthik%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h1 align="center">⚡ CYBERSECURITY ENGINEER ⚡</h1>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KruthikReddy88&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=28&center=true&vCenter=true&width=900&lines=Ethical+Hacker;AI+Security+Builder;Threat+Hunter;Bug+Bounty+Learner" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🧠 SYSTEM PROFILE
 
-![snake](https://github.com/KruthikReddy88/KruthikReddy88/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KruthikReddy88&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=KruthikReddy88&color=blue)
+```bash
+> Name: Kruthik Reddy
+> Role: Cybersecurity Engineer
+> Focus: AI + Threat Detection + Ethical Hacking
+> Status: Building IRUBAD 🚀
+```
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: kruthikjreddy@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/kruthik-reddy-j
+## ⚙️ TECH ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,linux,git,github,vscode" />
+</p>
 
 ---
 
-🔥 *"Hack the system, but build it better."*
+## 🚀 ACTIVE PROJECT
+
+### 🧠 IRUBAD — Insider Risk & User Behaviour Analytics Dashboard
+
+```diff
++ AI-driven anomaly detection
++ Real-time monitoring system
++ Insider threat intelligence
+```
+
+---
+
+## 📊 SYSTEM STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KruthikReddy88&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KruthikReddy88&theme=radical&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
+</p>
+
+---
+
+## 🐍 LIVE ACTIVITY
+
+<p align="center">
+  <img src="https://github.com/KruthikReddy88/KruthikReddy88/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KruthikReddy88&theme=matrix&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 👁 PROFILE VIEWS
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KruthikReddy88&color=ff0000&style=for-the-badge" />
+</p>
+
+---
+
+## 📡 CONNECT
+
+<p align="center">
+  <a href="mailto:kruthikjreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/kruthik-reddy-j">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer"/>
+</p>
+
+---
+
+<p align="center">
+⚡ "Hack the system. Secure the future." ⚡
+</p>
