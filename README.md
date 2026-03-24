@@ -64,7 +64,7 @@
 ## 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KruthikReddy88&theme=matrix&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KruthikReddy88&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
 ---
