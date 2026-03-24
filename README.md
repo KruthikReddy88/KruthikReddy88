@@ -29,8 +29,7 @@
 
 ---
 
-## 🧠 PROJECTS
-# 🚀 ACTIVE PROJECT
+# 🚀 ACTIVE PROJECTs
 
 ### 🧠 IRUBAD — Insider Risk & User Behaviour Analytics Dashboard
 
@@ -41,16 +40,22 @@ Insider threat intelligence
 ```
 
 ### 🚁 Drone RF Signal Interception 
+```diff
 - Capturing RF signals using SDR
 - Analyzing drone communication protocols
+```
 
-### 🛡️ Malicious URL Detection 
+### 🛡️ Malicious URL Detection
+```diff 
 - 96.6% accuracy using LightGBM
 - 651K+ dataset
+```
 
- ### 🧬 AI Malware Detection 
+ ### 🧬 AI Malware Detection
+```diff
  - Deep learning-based threat detection
  - Integrated with IDS
+```
 ---
 
 ## 📊 SYSTEM STATS
