@@ -39,23 +39,27 @@ Real-time monitoring system
 Insider threat intelligence
 ```
 
-### 🚁 Drone RF Signal Interception 
+### 🚁 Drone RF Signal Interception
+
 ```diff
-- Capturing RF signals using SDR
-- Analyzing drone communication protocols
+Capturing RF signals using SDR
+Analyzing drone communication protocols
 ```
 
 ### 🛡️ Malicious URL Detection
+
 ```diff 
-- 96.6% accuracy using LightGBM
-- 651K+ dataset
+96.6% accuracy using LightGBM
+651K+ dataset
 ```
 
  ### 🧬 AI Malware Detection
+ 
 ```diff
- - Deep learning-based threat detection
- - Integrated with IDS
+Deep learning-based threat detection
+Integrated with IDS
 ```
+
 ---
 
 ## 📊 SYSTEM STATS
