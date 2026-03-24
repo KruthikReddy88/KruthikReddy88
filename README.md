@@ -29,7 +29,7 @@
 
 ---
 
-# 🚀 ACTIVE PROJECTs
+# 🚀 ACTIVE PROJECTS
 
 ### 🧠 IRUBAD — Insider Risk & User Behaviour Analytics Dashboard
 
