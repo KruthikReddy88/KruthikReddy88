@@ -59,6 +59,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KruthikReddy88&theme=radical" />
 </p>
 
+---
+
 ## 🐍 Contribution Snake
 
 ![snake](https://github.com/KruthikReddy88/KruthikReddy88/blob/output/github-contribution-grid-snake.svg)
@@ -68,7 +70,12 @@
 ## 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KruthikReddy88&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=KruthikReddy88&color=blue)
+
+---
 
 ## 📫 Connect With Me
 - 📧 Email: kruthikjreddy@gmail.com
