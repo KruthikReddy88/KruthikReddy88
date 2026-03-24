@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KruthikReddy88/KruthikReddy88/main/banner.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=250&section=header&text=KRUTHIK%20REDDY&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">⚡ CYBERSECURITY ENGINEER ⚡</h1>
