@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=250&section=header&text=Kruthik%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/KruthikReddy88/KruthikReddy88/main/banner.png" />
 </p>
 
 <h1 align="center">⚡ CYBERSECURITY ENGINEER ⚡</h1>
@@ -16,7 +16,7 @@
 > Name: Kruthik Reddy
 > Role: Cybersecurity Engineer
 > Focus: AI + Threat Detection + Ethical Hacking
-> Status: Building IRUBAD 🚀
+> Status: Part-time Bug Bounty Hunter 🚀
 ```
 
 ---
