@@ -62,14 +62,15 @@ Integrated with IDS
 
 ---
 
-## 📊 SYSTEM STATS
+## 📈 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KruthikReddy88&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&text_color=ffffff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KruthikReddy88&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KruthikReddy88&theme=radical&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KruthikReddy88&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KruthikReddy88&theme=github_dark" />
 </p>
 
 ---
